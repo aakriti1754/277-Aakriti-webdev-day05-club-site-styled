@@ -1,52 +1,62 @@
-# Campus Connect College Club
+# Campus Connect – College Club Website
 
-<img width="1897" height="870" alt="image" src="https://github.com/user-attachments/assets/c8eb5ac7-0c1c-48a2-a9fc-9a0eb876224c" />
+## About the Project
+Campus Connect is a responsive college club website developed using HTML5 and CSS3. It provides students with information about the college club, its activities, and opportunities to connect and register.
 
-A responsive four-page college club website built with HTML and CSS. This is a static front-end project, so it does not need a framework or build step.
+## Features
+- Home page with an attractive landing section.
+- About page introducing the college club.
+- Contact page for student inquiries.
+- Registration page for joining the club.
+- Responsive website layout.
+- Consistent colors, typography, buttons, and styling.
+- Easy navigation between pages.
 
-## Pages
+## Technologies Used
+- HTML5 – Website structure.
+- CSS3 – Styling, layout, and responsive design.
+- Visual Studio Code – Development environment.
+- Git & GitHub – Version control and project hosting.
 
-- `index.html` — club introduction and calls to action.
-- `about.html` — club story and an accessible event table with a caption, `thead`, `tbody`, `tfoot`, and a `colspan`.
-- `registration.html` — student registration form and volunteer application. The forms demonstrate text, email, password, number, date, URL, telephone, time, radio, checkbox, select, textarea, file, and submit controls.
-- `contact.html` — club contact details and a message form.
-
-All four pages use the same navigation, responsive stylesheet, description and viewport metadata, and SVG favicon.
-
-## Preview the website
-
-Open `index.html` in a web browser. The forms demonstrate native HTML validation. The `action="#"` placeholders do not send submissions to a server; connect a form service or backend before collecting real responses.
-
-## Personalize the project
-
-1. Replace the sample club name, descriptions, email address, location, and event details with your own college or assignment details.
-2. Update the displayed year if needed.
-3. Save your work in a repository named using this format:
-
-   ```text
-   <rollno>-<firstname>-webdev-day04-college-club-site
-   ```
-
-   Replace `<rollno>` with your roll number and `<firstname>` with your first name.
-
-## Student submission instructions
-
-1. Create your **own individual repository** using the naming format above.
-2. Use this project as a reference while completing your assignment. Customize the pages and details for your own submission.
-3. Push your finished project files to your individual repository.
-4. Copy the link to your repository.
-5. Submit that link in the Google Sheet shared in the WhatsApp group.
-6. Take a screenshot of your website in a browser and include it with your submission if your instructor requests one.
-
-## Project structure
-
+## Project Structure
 ```text
-college-club-site/
+webdev-day04-college-club-site-main/
+│
 ├── index.html
 ├── about.html
-├── registration.html
 ├── contact.html
+├── registration.html
 ├── styles.css
 ├── favicon.svg
-└── README.md
+├── README.md
+└── screenshots/
+    └── homepage.png
 ```
+
+## Website Screenshots
+
+<img width="1867" height="914" alt="image" src="https://github.com/user-attachments/assets/da0c204e-30a6-45fc-b9d3-424e8a2a105b" />
+
+## How to Run the Project
+1. Download or clone this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` using Live Server.
+4. Navigate through the website pages.
+
+## Learning Outcomes
+- Understanding HTML page structure.
+- Working with CSS styling and layouts.
+- Creating multi-page websites.
+- Implementing navigation between pages.
+- Managing project files using Git and GitHub.
+
+## Author
+**Aakriti Sharma**
+
+GitHub: [@aakriti1754](https://github.com/aakriti1754)
+
+## Repository
+[View Project on GitHub](https://github.com/aakriti1754/277-Aakriti-webdev-day05-club-site-styled)
+
+---
+*Developed as part of a Web Development Assignment.*
